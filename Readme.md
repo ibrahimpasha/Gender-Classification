@@ -27,15 +27,15 @@ You can run all the cells at a time.
 2. 12GB RAM
 3. Size of the project: 752 MB
 4. Dependencies
-   -    o	Python 3.6.5
-   -	o	Scikit-learn 0.20.2
-	o	Keras 2.2.4
-	o	Numpy 1.16
-	o	Pandas 0.24.1
-	o	Tensorflow 1.13.1
-	o	Yellowbrick 0.9.1
-	o	Pip 19.03
-	o	Matplotlib 3.0.3
+   -    Python 3.6.5
+   -	Scikit-learn 0.20.2
+   -	Keras 2.2.4
+   -	Numpy 1.16
+   -	Pandas 0.24.1
+   -	Tensorflow 1.13.1
+   -	Yellowbrick 0.9.1
+   -	Pip 19.03
+   -	Matplotlib 3.0.3
 
 
 
