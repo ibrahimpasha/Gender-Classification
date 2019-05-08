@@ -15,7 +15,7 @@ pip install yellowbrick
 ### Steps to run the program:
 There are two ways to run the program. I suggest you to go with method 1 since the code is notebook readable format
 
-1. If you want to run on Jupyter Notebook, open the file "Gender Classification.ipynb" on JupyterNotebook restart the kernel and run from starting cell.
+1. If you want to run on Jupyter Notebook, open the file ```Gender Classification.ipynb``` on JupyterNotebook restart the kernel and run from starting cell.
 You can run all the cells at a time.
 
 2. If you want to run the python file open the command prompt and run the following command
@@ -37,6 +37,9 @@ You can run all the cells at a time.
    -	Pip 19.03
    -	Matplotlib 3.0.3
 
-
-
+```
+Author:
+Ibrahim Mohammad:
+imohammad@uh.edu
+```
 
