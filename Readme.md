@@ -14,19 +14,21 @@ pip install yellowbrick
 
 ### Steps to run the program:
 There are two ways to run the program. I suggest you to go with method 1 since the code is notebook readable format
+
 1. If you want to run on Jupyter Notebook, open the file "Gender Classification.ipynb" on JupyterNotebook restart the kernel and run from starting cell.
 You can run all the cells at a time.
 
 2. If you want to run the python file open the command prompt and run the following command
+
 ```python GenderClassification.py```
 
-Resources Ideal for execution:
-•	Intel I5 7th gen processor.
-•	12GB RAM
-•	Size of the project: 752 MB
-•	Dependencies
-	o	Python 3.6.5
-	o	Scikit-learn 0.20.2
+### Resources Ideal for execution:
+1. Intel I5 7th gen processor.
+2. 12GB RAM
+3. Size of the project: 752 MB
+4. Dependencies
+   -    o	Python 3.6.5
+   -	o	Scikit-learn 0.20.2
 	o	Keras 2.2.4
 	o	Numpy 1.16
 	o	Pandas 0.24.1
